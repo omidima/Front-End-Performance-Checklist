@@ -69,7 +69,7 @@
 </li>
 <li>
   
-  **[جاوااسکریپت](#javascript)**
+  **[جاوا اسکریپت](#javascript)**
   
 </li>
 <li>
@@ -79,7 +79,7 @@
 </li>
 <li>
   
-  **[فریم‌ورک‌های جاوااسکریپت(#performances-and-js-frameworks) (در دست اجرا)**
+  **[فریم‌ورک‌های جاوا اسکریپت](#performances-and-js-frameworks) (در دست اجرا)**
  
 </li>
 
