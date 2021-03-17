@@ -181,27 +181,27 @@ List of the tools you can use to test or monitor your website or application:
     * 🛠 [Online HTML Compressor](http://refresh-sf.com)
     * 📖 [Experimenting with HTML minifier — Perfection Kills](http://perfectionkills.com/experimenting-with-html-minifier/#use_short_doctype)
    
-- [ ] **Place CSS tags always before JavaScript tags:** ![high] Ensure that your CSS is always loaded before having JavaScript code.
+- [ ] **Place CSS tags always before JavaScript tags:** ![high] &#x202b;اطمینان حاصل کنید که سی اس اس پیش از کدهای جاوا اسکریپت قرار گیرد.
 
     ```html
-    <!-- Not recommended -->
+    <!-- توصیه نمی‌شود -->
     <script src="jquery.js"></script>
     <script src="foo.js"></script>
     <link rel="stylesheet" href="foo.css"/>
 
-    <!-- Recommended -->
+    <!-- توصیه می‌شود -->
     <link rel="stylesheet" href="foo.css"/>
     <script src="jquery.js"></script>
     <script src="foo.js"></script>
     ```
 
-    *Why:*
-    > Having your CSS tags before any JavaScript enables better, parallel download which speed up browser rendering time.
+    *&#x202b;چرا:*
+    > &#x202b;قرار دادن سی اس اس پیش از جاوا اسکریپت، قابلیت دانلود بهتر و موازی را فراهم می‌کند که باعث افزایش سرعت در زمان رندر مرورگر می‌شود.
 
-    *How:*
-    > ⁃ Ensure that `<link>`  and `<style>` in your `<head>` are always before your `<script>`.
+    *&#x202b;چگونه:*
+    > اطمینان حاصل کنید&#x202b; `<link>` و `<style>` در قسمت `<head>` همیشه قبل از `<script>` قرار داشته باشند.
 
-    * 📖 [Ordering your styles and scripts for pagespeed](https://varvy.com/pagespeed/style-script-order.html)
+    * 📖 [&#x202b;مرتب سازی استایل‌ها و اسکریپت‌ها برای افزایش سرعت صفحه](https://varvy.com/pagespeed/style-script-order.html)
 
 - [ ] **Minimize the number of iframes:** ![high] Use iframes only if you don't have any other technical possibility. Try to avoid iframes as much as you can.
 
