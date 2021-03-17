@@ -181,7 +181,7 @@ List of the tools you can use to test or monitor your website or application:
     * 🛠 [Online HTML Compressor](http://refresh-sf.com)
     * 📖 [Experimenting with HTML minifier — Perfection Kills](http://perfectionkills.com/experimenting-with-html-minifier/#use_short_doctype)
    
-- [ ] **Place CSS tags always before JavaScript tags:** ![high] &#x202b;اطمینان حاصل کنید که سی اس اس پیش از کدهای جاوا اسکریپت قرار گیرد.
+- [ ] **Place CSS tags always before JavaScript tags:** ![high] &#x202b;اطمینان حاصل کنید که سی اس اس پیش از کدهای جاوا اسکریپت قرار گیرد
 
     ```html
     <!-- توصیه نمی‌شود -->
@@ -203,7 +203,7 @@ List of the tools you can use to test or monitor your website or application:
 
     * 📖 [&#x202b;مرتب سازی استایل‌ها و اسکریپت‌ها برای افزایش سرعت صفحه](https://varvy.com/pagespeed/style-script-order.html)
 
-- [ ] **Minimize the number of iframes:** ![high] Use iframes only if you don't have any other technical possibility. Try to avoid iframes as much as you can.
+- [ ] **Minimize the number of iframes:** ![high] &#x202b;تنها در صورتی از iframe استفاده کنید که قادر به استفاده از روش دیگری نباشید. تلاش کنید که تا حد امکان از iframe استفاده نکنید
 
 - [ ] **Pre-load optimization with prefetch, dns-prefetch and prerender:** ![low] Popular browsers can use directive on `<link>` tag and "rel" attribute with certain keywords to pre-load specific URLs.
 
