@@ -49,7 +49,7 @@
   
 <li>
   
-  **[اچ‌تی‌ام‌ال](#html)**
+  **[اچ تی ام ال](#اچ-تی-ام-ال)**
 
 </li>
 <li>
@@ -166,18 +166,17 @@ List of the tools you can use to test or monitor your website or application:
 
 ---
 
-## HTML
+<h2 dir="rtl">اچ تی ام ال</h2>
 
 ![html]
 
-- [ ] **Minified HTML:** ![medium] The HTML code is minified, comments, white spaces and new lines are removed from production files.
+- [ ] **Minified HTML:** ![medium] &#x202b;صفحه HTML شما کوچک‌تر شده و کامنت‌ها، فضاهای خالی و خطوط اضافی از خروجی نهایی حذف خواهند شد
 
-    *Why:*
-    > Removing all unnecessary spaces, comments and attributes will reduce the size of your HTML and speed up your site's page load times and obviously lighten the download for your user.
+    *چرا&#x202b;:*
+    > &#x202b;حذف فضاهای خالی، کامنت‌ها و صفات غیر ضروری باعث کاهش اندازه صفحه HTML شما شده و سرعت بارگزاری صفحه شما را افزایش می‌دهد و مطمئنا باعث می‌شود که کاربران شما راحت‌تر محتوای HTML بارگذاری کنند.
 
-    *How:*
-    > Most of the frameworks have plugins to facilitate the minification of the webpages. You can use a bunch of NPM modules that can do the job for you automatically.
-
+    *&#x202b;چگونه:*
+    > &#x202b;بیشتر فریم ورک‌ها، پلاگین‌ها و ابزارهایی دارند که وظیفه آن‌ها کوچک کردن صفحات HTML است. شما می‌توانید از ماژول‌های بسیار زیاد NPM که اینکار را به صورت خودکار انجام می‌دهند استفاده کنید.
     * 🛠 [HTML minifier | Minify Code](http://minifycode.com/html-minifier/)
     * 🛠 [Online HTML Compressor](http://refresh-sf.com)
     * 📖 [Experimenting with HTML minifier — Perfection Kills](http://perfectionkills.com/experimenting-with-html-minifier/#use_short_doctype)
