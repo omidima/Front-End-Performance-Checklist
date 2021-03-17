@@ -1,14 +1,16 @@
-<h1 align="center">
+<h1 align="center" dir="rtl">
 <br>
   <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><img src="https://raw.githubusercontent.com/thedaviddias/Front-End-Performance-Checklist/master/images/logo-front-end-performance-checklist.jpg" alt="Front-End Performance Checklist" width="170"></a>
   <br>
-    <br>
-  Front-End Performance Checklist
+  <br>
+  Front-End Performance Checklist  
+  <br>
+  چک لیست کارایی در فرانت‌اند
   <br>
 </h1>
 
-<h4 align="center">🎮 The only Front-End Performance Checklist that runs faster than the others.</h4>
-<p align="center">One simple rule: "Design and code with performance in mind"</p>
+<h4 align="center" dir="rtl">🎮 تنها چک لیست مربوط به مباحث کارایی در فرانت‌اند که سریع تر از بقیه اجرا می‌شه.</h4>
+<p align="center" dir="rtl">یک قانون ساده: "با کارایی در ذهنتون طراحی و برنامه‌نویسی کنین"</p>
 
 <p align="center">
   <a href="http://makeapullrequest.com">
@@ -41,15 +43,47 @@
   🗂 <a href="https://github.com/thedaviddias/Front-End-Checklist#---------front-end-checklist-">Front-End Checklist</a> • 💎 <a href="https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist">Front-End Design Checklist</a>
 </p>
 
-## Table of Contents
+<h2 dir="rtl"> جدول محتوا </h2>
 
-1. **[HTML](#html)**
-2. **[CSS](#css)**
-3. **[Fonts](#fonts)**
-4. **[Images](#images)**
-5. **[JavaScript](#javascript)**
-6. **[Server](#server) (in progress)**
-7. **[JS Frameworks](#performances-and-js-frameworks) (in progress)**
+<ol dir="rtl">
+  
+<li>
+  
+  **[اچ‌تی‌ام‌ال](#html)**
+
+</li>
+<li>
+  
+  **[سی‌اس‌اس](#css)**
+  
+</li>
+<li>
+  
+  **[فونت‌ها](#fonts)**
+
+</li>
+<li>
+  
+  **[تصاویر](#images)**
+
+</li>
+<li>
+  
+  **[جاوااسکریپت](#javascript)**
+  
+</li>
+<li>
+  
+  **[سرور](#server) (در دست اجرا)**
+
+</li>
+<li>
+  
+  **[فریم‌ورک‌های جاوااسکریپت(#performances-and-js-frameworks) (در دست اجرا)**
+ 
+</li>
+
+</ol>
 
 ## Introduction
 
