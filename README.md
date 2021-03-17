@@ -205,17 +205,17 @@ List of the tools you can use to test or monitor your website or application:
 
 - [ ] **Minimize the number of iframes:** ![high] &#x202b;تنها در صورتی از iframe استفاده کنید که قادر به استفاده از روش دیگری نباشید. تلاش کنید که تا حد امکان از iframe استفاده نکنید
 
-- [ ] **Pre-load optimization with prefetch, dns-prefetch and prerender:** ![low] Popular browsers can use directive on `<link>` tag and "rel" attribute with certain keywords to pre-load specific URLs.
+- [ ] **Pre-load optimization with prefetch, dns-prefetch and prerender:** ![low] &#x202b;مرورگرهای معروف می‌توانند با استفاده از تگ `<link>` و صفت "rel" با مقادیر مشخص، آدرس‌های خاصی را پیش بارگذاری کنند
 
-    *Why:*
-    > Prefetching allows a browser to silently fetch the necessary resources needed to display content that a user might access in the near future. The browser is able to store these resources in its cache and speed up the way web pages load when they are using different domains for page resources. When a web page has finished loading and the idle time has passed, the browser begins downloading other resources. When a user go in a particular link (already prefetched), the content will be instantly served.
+    *&#x202b;چرا:*
+    > &#x202b; امکان Prefetching به مرورگر اجازه می‌دهد تا به طور نامحسوس منابع ضروری را که در آینده برای نشان دادن محتوا به کاربر مورد استفاده قرار می‌گیرند را دریافت کند. مرورگر قادر است این منابع را در کش خود ذخیره کند و باعث افزایش سرعت بارگذاری صفحه شود. زمانی که بارگذاری صفحه جاری به پایان رسید و پردازنده بیکار شد، مرورگر شروع به دانلود این منابع می‌کند؛ و زمانی که کاربر به یک لینک مشخص مراجعه می‌کند (در حالی که منابع آن از قبل دریافت شده) محتوا سریعا برای کاربر نمایش داده خواهد شد. 
 
-    *How:*
-    > ⁃ Ensure that `<link>` is in your `<head>` section.
+    *&#x202b;چطور:*
+    > مطمئن شوید که از تگ `<link>` به درستی در بخش `<head>` استفاده کنید..
 
-    * 📖 [What Is Prefetching and Why Use It](https://www.keycdn.com/support/prefetching)
+    * 📖 [&#x202b;Prefetching چیست و چرا از آن استفاده می‌شود](https://www.keycdn.com/support/prefetching)
     * 📖 [Prefetching, preloading, prebrowsing](https://css-tricks.com/prefetching-preloading-prebrowsing/)
-    * 📖 [What is Preload, Prefetch, and Preconnect](https://www.keycdn.com/blog/resource-hints)
+    * 📖 [&#x202b;Preload، Prefetch، و Preconnect چیستند؟](https://www.keycdn.com/blog/resource-hints)
 
 **[⬆ back to top](#table-of-contents)**
 
