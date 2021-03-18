@@ -291,20 +291,19 @@ List of the tools you can use to test or monitor your website or application:
     * 🛠 [PurgeCSS](https://github.com/FullHuman/purgecss)
     * 🛠 [Chrome DevTools Coverage](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage)
 
-* [ ] **CSS Critical:** ![high] The CSS critical (or "above the fold") collects all the CSS used to render the visible portion of the page. It is embedded before your principal CSS call and between `<style></style>` in a single line (minified if possible).
+* [ ] **CSS Critical:** ![high] &#x202b;سی‌اس‌اس‌های ضروری ("critical" یا "above the fold") شامل تمامی قوانین‌های سی‌اس‌اس هستند که برای نمایش بخش بالای صفحه (در زمان بارگذاری) مورد نیاز است. این قوانین پیش از خطوط تعریف فایل‌های سی‌اس‌اس در داخل تگ `<style></style>` قرار میگیرند. 
 
-    *Why:*
-    > Inlining critical CSS help to speed up the rendering of the web pages reducing the number of requests to the server.
+    *&#x202b;چرا:*
+    > &#x202b;استفاده از سی‌اس‌اس‌های ضروری باعث افزایش سرعت در رندر صفحات می‌شود و تعداد درخواست‌ها به سرور را کاهش می‌دهد.
 
-    *How:*
-    > Generate the CSS critical with online tools or using a plugin like the one that Addy Osmani developed.
+    *&#x202b;چگونه:*
+    > &#x202b;سی‌اس‌اس‌های ضروری را  با استفاده از ابزار آنلاین و یا پلاگین‌های موجود (مثلا ابزاری که ادی عثمانی توسعه داده است) تولید کنید.
 
-    * 📖 [Understanding Critical CSS](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)
+    * 📖 [&#x202b;سی‌اس‌اس‌های ضروری را بفهمید](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)
     * 🛠 [Critical by Addy Osmani on GitHub](https://github.com/addyosmani/critical) automates this.
-    * 📖 [Inlining critical CSS for better web performance | Go Make Things](https://gomakethings.com/inlining-critical-css-for-better-web-performance/)
+    * 📖 [&#x202b;سی‌اس‌اس‌های ضروری برای برای بهتر شدن کارایی وبسایت](https://gomakethings.com/inlining-critical-css-for-better-web-performance/)
      * 🛠 [Critical Path CSS Generator - Prioritize above the fold content :: SiteLocity](https://www.sitelocity.com/critical-path-css-generator)
-     * 📖 [Reduce the size of the above-the-fold content
-](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent)
+     * 📖 [&#x202b;حجم منابع برای بارگذاری محتوای بالای صفحه را کاهش دهید](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent)
 
 - [ ] **Embedded or inline CSS:** ![high] Avoid using embed or inline CSS inside your `<body>` *(Not valid for HTTP/2)*
 
