@@ -55,7 +55,7 @@
 </li>
 <li>
   
-  **[سی‌اس‌اس](#css)**
+  **[سی اس اس](#سی-اس-اس)**
   
 </li>
 <li>
@@ -220,19 +220,19 @@ List of the tools you can use to test or monitor your website or application:
 
 **[⬆ &#x202b;برگشت به بالا](#جدول-محتوا)**
 
-## CSS
+<h2 dir="rtl">سی اس اس</h2>
 
 ![css]
 
-- [ ] **Minification:** ![high] All CSS files are minified, comments, white spaces and new lines are removed from production files.
+- [ ] **Minification:** ![high] &#x202b;تمامی فایل‌های CSS کوچک‌تر شده و کامنت‌ها، فضاهای خالی و خطوط اضافی از خروجی نهایی حذف خواهند شد
 
-    *Why:*
-    > When CSS files are minified, the content is loaded faster and less data is sent to the client. It's important to always minify CSS files in production. It is beneficial for the user as it is for any business who wants to lower bandwidth costs and lower resource usage.
+    *&#x202b;چرا:*
+    > &#x202b;زمانی که فایل‌های CSS کوچک تر می‌شوند، محتوا سریع‌تر بارگذاری شده و داده کمتری برای دانلود به سمت کاربر ارسال می‌شود. کوچک کردن فایل‌های CSS در خروجی نهایی بسیار مهم است. این مورد هم به نفع کاربر و هم به نفع کسب و کاری است که قصد دارد هزینه پهنای باند و استفاده از منابع را کاهش دهد.
 
-    *How:*
-    > ⁃ Use tools to minify your files automatically before or during your build or your deployment.
+    *&#x202b;چگونه:*
+    > &#x202b;از ابزارهایی استفاده کنید که فایل‌های مورد نظر را به صورت خودکار در زمان تولید خروجی نهایی و یا پیش از آن کوچک کنند.
 
-    * 🛠 [cssnano: A modular minifier based on the PostCSS ecosystem. - cssnano](https://cssnano.co/)
+    * 🛠 [cssnano: &#x202b;یک کوچک کننده ماژولار که در اکوسیستم PostCSS اجرا می‌شود](https://cssnano.co/)
     * 🛠 [CSS Minfier](https://goonlinetools.com/css-minifier/)
     * 🛠 [@neutrinojs/style-minify - npm](https://www.npmjs.com/package/@neutrinojs/style-minify)
     * 🛠 [Online CSS Compressor](http://refresh-sf.com)
