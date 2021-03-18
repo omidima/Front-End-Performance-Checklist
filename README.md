@@ -260,23 +260,23 @@ List of the tools you can use to test or monitor your website or application:
     * 📖 [HTTP: Optimizing Application Delivery - High Performance Browser Networking (O'Reilly)](https://hpbn.co/optimizing-application-delivery/#optimizing-for-http2)
     * 📖 [Performance Best Practices in the HTTP/2 Era](https://deliciousbrains.com/performance-best-practices-http2/)
 
-- [ ] **Non-blocking:** ![high] CSS files need to be non-blocking to prevent the DOM from taking time to load.
+- [ ] **Non-blocking:** ![high] &#x202b;نیاز است فایل‌های سی‌اس‌اس non-blocking باشند تا از معطل شدن بارگذاری DOM جلوگیری شود
 
     ```html
     <link rel="preload" href="global.min.css" as="style" onload="this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="global.min.css"></noscript>
     ```
 
-    *Why:*
-    > CSS files can block the page load and delay the rendering of your page. Using `preload` can actually load the CSS files before the browser starts showing the content of the page.
+    *&#x202b;چرا:*
+    > &#x202b;فایل‌های CSS می‌توانند از بارگذاری صفحه جلوگیری کنند و رندر صفحه شما را به تاخیر بیاندازند. با استفاده از `preload` می‌توان بارگذاری فایل‌های سی‌اس‌اس را پیش از نمایش محتوا آغاز کرد.
 
-    *How:*
-    > ⁃ You need to add the `rel` attribute with the `preload` value and add `as="style"` on the `<link>` element.
+    *&#x202b;چطور:*
+    > &#x202b;تنها با افزودن صفت `rel` را همراه با مقدار `preload` و اضافه کردن `as="style"` به تگ `<link>`.
 
     * 🛠 [loadCSS by filament group](https://github.com/filamentgroup/loadCSS)
-    * 📖 [Example of preload CSS using loadCSS](https://gist.github.com/thedaviddias/c24763b82b9991e53928e66a0bafc9bf)
-    * 📖 [Preloading content with rel="preload"](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content)
-    * 📖 [Preload: What Is It Good For? — Smashing Magazine](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
+    * 📖 [&#x202b;مثال‌های از پیش بارگذاری CSS با استفاده از loadCSS](https://gist.github.com/thedaviddias/c24763b82b9991e53928e66a0bafc9bf)
+    * 📖 [&#x202b;پیش‌بارگذاری محتوا با استفاده از rel="preload"](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content)
+    * 📖 [Preload: &#x202b;برای چی خوبه؟](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
 
 - [ ] **Unused CSS:** ![medium] Remove unused CSS selectors.
 
