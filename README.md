@@ -315,20 +315,20 @@ List of the tools you can use to test or monitor your website or application:
 
     * 📖 [&#x202b;عادات خوب در CSS: از inline CSS دوری کنید](https://www.lifewire.com/avoid-inline-styles-for-css-3466846)
 
-- [ ] **Analyse stylesheets complexity:** ![high] Analyzing your stylesheets can help you to flag issues, redundancies and duplicate CSS selectors.
+- [ ] **Analyse stylesheets complexity:** ![high] &#x202b;بررسی استایل می‌تواند کمک کند تا مشکلات، موانع و قوانین تکراری را شناسایی کنید
 
-    *Why:*
-    > Sometimes you may have redundancies or validation errors in your CSS, analysing your CSS files and removed these complexities can help you to speed up your CSS files (because your browser will read them faster)
+    *&#x202b;چرا:*
+    > &#x202b;برخی اوقات شما ممکن است خطاهایی را در فایل‌های سی‌اس‌ای خود پیدا کنید. بررسی این فایل‌ها و حذف این پیچیدگی‌ها باعث می‌شود که فایل‌های CSS شما سریع‌تر شوند (چون مرورگر آن‌ها را سریع‌تر می‌خواند)
 
-    *How:*
-    > Your CSS should be organized, using a CSS preprocessor can help you with that. Some online tools listed below can also help you analysing and correct your code.
+    *&#x202b;چطور:*
+    > &#x202b;CSSهای شما باید سازماندهی شوند؛ که این عمل با پیش پردازشگرهای CSS امکان پذیر است. تعدادی از ابزارهای آنلاین در زیر وجود دارند که می‌توانید از آن‌ها برای بررسی و تصحیح کدهای خود استفاده کنید.
 
-    * 🛠 [TestMyCSS | Optimize and Check CSS Performance](http://www.testmycss.com/)
+    * 🛠 [TestMyCSS | &#x202b;بهینه‌سازی و بررسی کارایی CSS](http://www.testmycss.com/)
     * 🛠 [CSS Stats](https://cssstats.com/)
-    * 🛠 [macbre/analyze-css: CSS selectors complexity and performance analyzer](https://github.com/macbre/analyze-css)
+    * 🛠 [macbre/analyze-css: &#x202b;بررسی کننده کارایی و پیچیدگی قوانین CSS](https://github.com/macbre/analyze-css)
     * 🛠 [Project Wallace](https://www.projectwallace.com/) is like CSS Stats but stores stats over time so you can track your changes
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ &#x202b;برگشت به بالا](#جدول-محتوا)**
 
 ## Fonts
 
