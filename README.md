@@ -238,24 +238,24 @@ List of the tools you can use to test or monitor your website or application:
     * 🛠 [Online CSS Compressor](http://refresh-sf.com)
 
 
-- [ ] **Concatenation:** ![medium] CSS files are concatenated in a single file *(Not always valid for HTTP/2)*.
+- [ ] **Concatenation:** ![medium] &#x202b;فایل‌های CSS در یک فایل ادغام شوند *(ممکن است برای HTTP/2 معتبر نباشد)*.
 
     ```html
 
-    <!-- Not recommended -->
+    <!-- توصیه نمی‌شود -->
     <link rel="stylesheet" href="foo.css"/>
     <link rel="stylesheet" href="bar.css"/>
 
-    <!-- Recommended -->
+    <!-- توصیه می‌شود -->
     <link rel="stylesheet" href="foobar.css"/>
     ```
 
-    *Why:*
-    > If you are still using HTTP/1, you may need to still concatenate your files, it's less true if your server use HTTP/2 (tests should be made).
+    *&#x202b;چرا:*
+    > &#x202b;اگر شما هنوز هم از HTTP/1 استفاده می‌کنید، ممکن است نیاز باشد تا فایل‌ها را ادغام کنید. این مورد زمانی که شما از HTTP/2 استفاده می‌کنید کمتر معتبر است. (نیاز به تست و بررسی)
 
-    *How:*
-    > ⁃ Use online tool or any plugin before or during your build or your deployment to concatenate your files. <br>
-    ⁃ Ensure, of course, that concatenation does not break your project.
+    *&#x202b;چگونه:*
+    > &#x202b;- از ابزارهای آنلاین یا هر پلاگین دیگری که در زمان تولید خروجی نهایی و یا پیش از آن فایل‌های شما را ادغام می‌کنند استفاده کنید. <br>
+    > &#x202b;- البته اطمینان حاصل کنید که این ادغام باعث خرابی در پروژه شما نشود.
 
     * 📖 [HTTP: Optimizing Application Delivery - High Performance Browser Networking (O'Reilly)](https://hpbn.co/optimizing-application-delivery/#optimizing-for-http2)
     * 📖 [Performance Best Practices in the HTTP/2 Era](https://deliciousbrains.com/performance-best-practices-http2/)
