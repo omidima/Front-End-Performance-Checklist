@@ -268,7 +268,7 @@ List of the tools you can use to test or monitor your website or application:
     ```
 
     *&#x202b;چرا:*
-    > &#x202b;فایل‌های CSS می‌توانند از بارگذاری صفحه جلوگیری کنند و رندر صفحه شما را به تاخیر بیاندازند. با استفاده از `preload` می‌توان بارگذاری فایل‌های سی‌اس‌اس را پیش از نمایش محتوا آغاز کرد.
+    > &#x202b;فایل‌های CSS می‌توانند از بارگذاری صفحه جلوگیری کنند و رندر صفحه شما را به تاخیر بی‌اندازند. با استفاده از `preload` می‌توان بارگذاری فایل‌های سی‌اس‌اس را پیش از نمایش محتوا آغاز کرد.
 
     *&#x202b;چطور:*
     > &#x202b;تنها با افزودن صفت `rel` را همراه با مقدار `preload` و اضافه کردن `as="style"` به تگ `<link>`.
@@ -278,13 +278,13 @@ List of the tools you can use to test or monitor your website or application:
     * 📖 [&#x202b;پیش‌بارگذاری محتوا با استفاده از rel="preload"](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content)
     * 📖 [Preload: &#x202b;برای چی خوبه؟](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
 
-- [ ] **Unused CSS:** ![medium] Remove unused CSS selectors.
+- [ ] **Unused CSS:** ![medium] &#x202b;قوانین بی‌استفاده را حذف کنید
 
-    *Why:*
-    > Removing unused CSS selectors can reduce the size of your files and then speed up the load of your assets.
+    *&#x202b;چرا:*
+    > &#x202b;حذف قوانین بی‌استفاده در CSS می‌تواند باعث کاهش حجم فایل‌ها شود و سپس سرعت برگذاری فایل‌ها بیشتر کند.
 
-    *How:*
-    > ⁃ ⚠️ Always check if the framework CSS you want to use don't already has a reset / normalize code included. Sometimes you may not need everything that is inside your reset / normalize file.
+    *&#x202b;چطور:*
+    > &#x202b;⚠️ همیشه فریم‌ورک‌های مورد استفاده‌تان را بررسی کنید تا کدهای اضافی نداشته باشند. بیشتر اوقات شما به تمامی قوانین موجود در این فریم‌ورک‌ها احتیاج نخواهید داشت.
 
     * 🛠 [UnCSS Online](https://uncss-online.com/)
     * 🛠 [PurifyCSS](https://github.com/purifycss/purifycss)
