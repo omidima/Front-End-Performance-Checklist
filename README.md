@@ -302,18 +302,18 @@ List of the tools you can use to test or monitor your website or application:
     * 📖 [&#x202b;سی‌اس‌اس‌های ضروری را بفهمید](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)
     * 🛠 [Critical by Addy Osmani on GitHub](https://github.com/addyosmani/critical) automates this.
     * 📖 [&#x202b;سی‌اس‌اس‌های ضروری برای برای بهتر شدن کارایی وبسایت](https://gomakethings.com/inlining-critical-css-for-better-web-performance/)
-     * 🛠 [Critical Path CSS Generator - Prioritize above the fold content :: SiteLocity](https://www.sitelocity.com/critical-path-css-generator)
-     * 📖 [&#x202b;حجم منابع برای بارگذاری محتوای بالای صفحه را کاهش دهید](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent)
+    * 🛠 [Critical Path CSS Generator - Prioritize above the fold content :: SiteLocity](https://www.sitelocity.com/critical-path-css-generator)
+    * 📖 [&#x202b;حجم منابع برای بارگذاری محتوای بالای صفحه را کاهش دهید](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent)
 
-- [ ] **Embedded or inline CSS:** ![high] Avoid using embed or inline CSS inside your `<body>` *(Not valid for HTTP/2)*
+- [ ] **Embedded or inline CSS:** ![high] &#x202b;از inline CSS داخل `<body>` استفاده نکنید *(در HTTP/2 معتبر نیست)* 
 
-    *Why:*
-    > One of the first reason it's because it's a good practice to **separate content from design**. It also helps you have a more maintainable code and keep your site accessible. But regarding performance, it's simply because it decreases the file-size of your HTML pages and the load time.
+    *&#x202b;چرا:*
+    > &#x202b;اولین دلیل عادت خوب **جدا کردن طراحی از محتوا** است. این کار همچنین باعث می‌شود که قابلیت نگهداری و دسترسی در وبسایت شما بالا باشد. اما از بُعد کارایی، این عمل به سادگی باعث افزایش حجم صفحات شما می‌شود و زمان بارگذاری را افزایش می‌دهد.
 
-    *How:*
-    > Always use external stylesheets or embed CSS in your `<head>` (and follow the others CSS performance rules)
+    *&#x202b;چطور:*
+    > &#x202b;همیشه از external stylesheets و یا embed CSS در درون تگ `<head>` استفاده کنید (و بقیه قوانین کارایی در بخش سی‌اس‌اس را دنبال کنید) 
 
-    * 📖 [Observe CSS Best Practices: Avoid CSS Inline Styles](https://www.lifewire.com/avoid-inline-styles-for-css-3466846)
+    * 📖 [&#x202b;عادات خوب در CSS: از inline CSS دوری کنید](https://www.lifewire.com/avoid-inline-styles-for-css-3466846)
 
 - [ ] **Analyse stylesheets complexity:** ![high] Analyzing your stylesheets can help you to flag issues, redundancies and duplicate CSS selectors.
 
