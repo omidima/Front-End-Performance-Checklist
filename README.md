@@ -60,7 +60,7 @@
 </li>
 <li>
   
-  **[فونت‌ها](#fonts)**
+  **[فونت ها](#فونت-ها)**
 
 </li>
 <li>
@@ -330,22 +330,22 @@ List of the tools you can use to test or monitor your website or application:
 
 **[⬆ &#x202b;برگشت به بالا](#جدول-محتوا)**
 
-## Fonts
+<h2 dir="rtl">فونت ها</h2>
 
 ![fonts]
 
-* 📖 [A Book Apart, Webfont Handbook](https://abookapart.com/products/webfont-handbook)
+* 📖 [&#x202b;کتابچه راهنمای وب فونت](https://abookapart.com/products/webfont-handbook)
 
-- [ ] **Webfont formats:** ![medium] You are using WOFF2 on your web project or application.
+- [ ] **Webfont formats:** ![medium] &#x202b;شما باید از فرمت WOFF2 در پروژه وب یا اپلیکیشن خود استفاده کنید
 
-    *Why:*
-    > According to Google, the WOFF 2.0 Web Font compression format offers 30% average gain over WOFF 1.0. It's then good to use WOFF 2.0, WOFF 1.0 as a fallback and TTF.
+    *&#x202b;چرا:*
+    > &#x202b;طبق گفته گوگل، نسخه دوم فرمت فشرده وب فونت WOFF به طور میانگین 30% حجم کمتری نسبت به نسخه اول WOFF دارد. خوب است که از WOFF 2.0  استفاده کرده و سپس از WOFF 1.0 و TTF به عنوان پشتیبانی از مرورگرهای قدیمی بهره ببرید.
 
-    *How:*
-    > Check before buying your new font that the provider gives you the WOFF2 format. If you are using a free font, you can always use Font Squirrel to generate all the formats you need.
+    *&#x202b;چگونه:*
+    > &#x202b;پیش از خرید فونت جدید اطمینان حاصل کنید که نسخه WOFF2 در اختیار شما قرار گیرد. اگر شما از یک فونت رایگان استفاده می‌کنید، می‌توانید از سایت‌هایی استفاده کنید که فرمت‌های مورد نیاز شما را تولید می‌کنند. 
 
-    * 📖 [WOFF 2.0 – Learn more about the next generation Web Font Format and convert TTF to WOFF2](https://gist.github.com/sergejmueller/cf6b4f2133bcb3e2f64a)
-    * 🛠 [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
+    * 📖 [WOFF 2.0 – &#x202b;درباره فرمت نسل بعدی وب فونت‌ها بیشتر بدانید و TTF را به WOFF2 تبدیل کنید](https://gist.github.com/sergejmueller/cf6b4f2133bcb3e2f64a)
+    * 🛠 [Font Squirrel - &#x202b;@font-face خود را بسازید](https://www.fontsquirrel.com/tools/webfont-generator)
     * 🛠 [IcoMoon App - Icon Font, SVG, PDF & PNG Generator](https://icomoon.io/app/)
     * 📖 [Using @font-face | CSS-Tricks](https://css-tricks.com/snippets/css/using-font-face/?ref=frontendchecklist)
     * 📖 [Can I use... WOFF2](https://caniuse.com/#feat=woff2)
