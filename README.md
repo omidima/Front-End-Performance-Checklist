@@ -422,17 +422,17 @@ List of the tools you can use to test or monitor your website or application:
     * 📖 [PNG8 - The Clear Winner — SitePoint](https://www.sitepoint.com/png8-the-clear-winner/)
     * 📖 [8-bit vs 16-bit - What Color Depth You Should Use And Why It Matters - DIY Photography](https://www.diyphotography.net/8-bit-vs-16-bit-color-depth-use-matters/)
 
-- [ ] **Use vector image vs raster/bitmap:** ![medium] Prefer using vector image rather than bitmap images (when possible).
+* [ ] **Use vector image vs raster/bitmap:** ![medium] &#x202b;هر زمان که ممکن بود، از تصاویر بُرداری به‌جای پیکسلی استفاده کنید
 
-    *Why:*
-    > Vector images (SVG) tend to be smaller than images and SVG's are responsive and scale perfectly. These images can be animated and modified by CSS.
+    *&#x202b;چرا:*
+    > &#x202b; تصاویر برداری (مانند SVG) معمولا از فرمت‌های دیگر کم حجم‌تر هستند و تصاویر SVG واکنش‌گرا بوده و به خوبی مقیاس پذیر هستند. این نوع تصاویر می‌توانند متحرک شوند و به وسیله CSS در آن‌ها تغییراتی ایجاد داد (مانند تغییر رنگ) 
 
-* [ ] **Images dimensions:** ![medium] Set `width` and `height` attributes on `<img>` if the final rendered image size is known.
+* [ ] **Images dimensions:** ![medium] &#x202b;اگر سایز تصویر مورد استفاده را می‌دانید، بر روی تگ `<img>` صفات `width` و `height` را تنظیم کنید
 
-    *Why:*
-    > If height and width are set, the space required for the image is reserved when the page is loaded. However, without these attributes, the browser does not know the size of the image, and cannot reserve the appropriate space to it. The effect will be that the page layout will change during loading (while the images load).
+    *&#x202b;چرا:*
+    > &#x202b;اگر طول و ارتفاع تصاویر مشخص شوند، فضایی که برای نمایش تصویر مورد نیاز است پیش از بارگذاری رزرو می‌شود. ولی بدون این صفات، مرورگر سایز تصاویر را نخواهد دانست و نمی‌تواند فضای مناسب را برای تصویر رزرو کند؛ و این کار باعث جابه‌جایی لایه‌ها در زمان بارگزاری تصاویر می‌شود.
 
-* [ ] **Avoid using Base64 images:** ![medium] You could eventually convert tiny images to base64 but it's actually not the best practice.
+* [ ] **Avoid using Base64 images:** ![medium] &#x202b;شما می‌توانید تصاویر کوچک را به base64 تبدیل کنید اما اینکار یک عادت خوب نیست
 
     * 📖 [Base64 Encoding & Performance, Part 1 and 2 by Harry Roberts](https://csswizardry.com/2017/02/base64-encoding-and-performance/)
     * 📖 [A closer look at Base64 image performance – The Page Not Found Blog](http://www.andygup.net/a-closer-look-at-base64-image-performance/)
