@@ -65,7 +65,7 @@
 </li>
 <li>
   
-  **[تصاویر](#images)**
+  **[تصاویر](#تصاویر)**
 
 </li>
 <li>
@@ -381,22 +381,22 @@ List of the tools you can use to test or monitor your website or application:
 
 **[⬆ &#x202b;برگشت به بالا](#جدول-محتوا)**
 
-## Images
+<h2 dir="rtl">تصاویر</h2>
 
 ![images]
 
  * 📖 [Image Bytes in 2018](https://httparchive.org/reports/page-weight#bytesImg)
 
-* [ ] **Images optimization:** ![high] Your images are optimized, compressed without direct impact to the end user.
+* [ ] **Images optimization:** ![high] &#x202b;تصاویر شما بدون اینکه تاثیری در نمایش برای کاربر نهایی داشته باشند، باید بهینه و فشرده شوند
 
-    *Why:*
-    > Optimized images load faster in your browser and consume less data.
+    *&#x202b;چرا:*
+    > &#x202b;تصاویر بهینه سازی شده سریع‌تر در مرورگر بارگذاری می‌شوند و داده (اینترنتی) کمتری استفاده می‌کنند
 
-    *How:*
-    > ⁃ Try using CSS3 effects when it's possible (instead of a small image) <br>
-    ⁃ When it's possible, use fonts instead of text encoded in your images <br>
-    ⁃ Use SVG <br>
-    ⁃ Use a tool and specify a level compression under 85.
+    *&#x202b;چطور:*
+    > &#x202b;- هر جا که امکان پذیر بود به جای تصاویر کوچک از افکت‌های CSS3 استفاده کنیپ <br>
+    > &#x202b;- هر جا که ممکن بود از فونت‌ها به جای متون تصویری استفاده کنید <br>
+    > &#x202b;- از SVG استفاده کنید <br>
+    > &#x202b;- از ابزار استفاده کنید و سطح فشرده سازی آن را زیر ۸۵ قرار دهید
 
     * 📖 [Image Optimization | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization)
     * 📖 [Essential Image Optimization - An eBook by Addy Osmani](https://images.guide/)
