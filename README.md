@@ -439,15 +439,15 @@ List of the tools you can use to test or monitor your website or application:
     * 📖 [When to base64 encode images (and when not to) | David Calhoun](https://www.davidbcalhoun.com/2011/when-to-base64-encode-images-and-when-not-to/)
    * 📖 [Base64 encoding images for faster pages | Performance and seo factors](https://varvy.com/pagespeed/base64-images.html)
 
-* [ ] **Lazy loading:** ![medium] Offscreen images are loaded lazily (A noscript fallback is always provided).
+* [ ] **Lazy loading:** ![medium] &#x202b;تصاویری که در هنگام بارگذاری وبسایت در دید کاربر نیستند باید با استفاده از تکنیک lazy loading بارگذاری شوند
 
-    *Why:*
-    > It will improve the response time of the current page and then avoid loading unnecessary images that the user may not need.
+    *&#x202b;چرا:*
+    > اینکار باعث بهبود زمان پاسخ در صفحه جاری می‌شود و در کنار آن، از بارگذاری تصاویر غیر ضروری که کاربر ممکن است به آن احتیاج نداشته باشد جلوگیری می‌کند.
 
-    *How:*
-    > ⁃ Use [Lighthouse](https://developers.google.com/web/tools/lighthouse/) to identify how many **images are offscreen**. <br>
-    ⁃ Use a JavaScript plugin like the following to lazyload your images. Make sure you target offscreen images only. <br>
-    ⁃ Also make sure to lazyload alternative images shown at mouseover or upon other user actions.
+    *&#x202b;چطور:*
+    > &#x202b;- از ابزار [Lighthouse](https://developers.google.com/web/tools/lighthouse/) برای شناسایی **تصاویر خارج از دید** استفاده کنید. <br>
+    > &#x202b;- از یک کتابخانه جاوا اسکریپت مانند مواردی که در پایین آورده شده‌اند برای بارگذاری تنبل (lazy load) تصاویر استفاده کنید. اطمینان حاصل کنید که این تکنینک را فقط برای تصاویر خارج از دید کاربر انجام دهید. <br>
+    > &#x202b;- همچنین اطمینان حاصل کنید تصاویر جایگزین لود تنبل در زمان مناسب به کاربر نمایش داده شوند.
 
     * 🛠 [verlok/lazyload: GitHub](https://github.com/verlok/lazyload)
     * 🛠 [aFarkas/lazysizes: GitHub](https://github.com/aFarkas/lazysizes/)
