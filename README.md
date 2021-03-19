@@ -408,14 +408,14 @@ List of the tools you can use to test or monitor your website or application:
     * 🛠 [SVGOMG - Optimize SVG vector graphics files](https://jakearchibald.github.io/svgomg/)
 
 
-* [ ] **Images format:** ![high] Choose your image format appropriately.
+* [ ] **Images format:** ![high] &#x202b;فرمت مناسبی را برای تصاویر خود انتخاب کنید
 
-    *Why:*
-    > To ensure that your images don't slow your website, choose the format that will correspond to your image. If it's a photo, JPEG is most of the time more appropriate than PNG or GIF. But don't forget to look a the nex-gen formats which can reduce the size of your files. Each image format has pros and cons, it's important to know these to make the best choice possible.
+    *&#x202b;چرا:*
+    > &#x202b;برای اینکه مطمئن شوید که تصاویرتان، وبسایتتان را کند نمی‌کند، فرمتی را انتخاب کنید که مطابق تصویر شماست. اگر یک عکس داشتید، JPEG اغلب اوقات مناسب‌ترین انتخاب در مقایسه با PNG و GIF است. اما فراموش نکنید که نگاهی به فرمت‌های نسل بعدی بی‌اندازید که می‌توانند حجم فایل‌های شما را بیشتر کاهش دهند. هر فرمتی نقاط مثبت و منفی خود را دارد؛ این مورد به این دلیل مهم است که  بدانید بهترین انتخاب ممکن چیست. 
 
-    *How:*
-    > ⁃ Use [Lighthouse](https://developers.google.com/web/tools/lighthouse/) to identify which images can eventually use **next-gen formats** (like JPEG 2000m JPEG XR or WebP) <br>
-    ⁃ Compare different formats, sometimes using PNG8 is better than PNG16, sometimes it's not.
+    *&#x202b;چطور:*
+    > &#x202b;از ابزار [Lighthouse](https://developers.google.com/web/tools/lighthouse/) برای شناسایی اینکه کدام تصاویر می‌توانند از **فرمت‌های نسل بعدی** استفاده کنند، استفاده کنید. (مانند JPEG 2000 ،JPEG XR و یا WebP) <br>
+    > &#x202b;فرمت‌های مختلف را با هم مقایسه کنید؛ برخی اوقات استفاده از PNG8 بسیار بهتر از PNG16 است و بعضی اوقات نه.
 
     * 📖 [Serve Images in Next-Gen Formats  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/lighthouse/audits/webp)
     * 📖 [What Is the Right Image Format for Your Website? — SitePoint](https://www.sitepoint.com/what-is-the-right-image-format-for-your-website/)
