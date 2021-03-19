@@ -455,14 +455,14 @@ List of the tools you can use to test or monitor your website or application:
     * 📖 [Lazy Loading Images and Video  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
     * 📖 [5 Brilliant Ways to Lazy Load Images For Faster Page Loads - Dynamic Drive Blog](http://blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads/)
 
-* [ ] **Responsive images:** ![medium] Ensure to serve images that are close to your display size.
+* [ ] **Responsive images:** ![medium] &#x202b;اطمینان حاصل کنید که تصاویر متناسب با اندازه صفحه نمایش کاربر بکار برده شوند.
 
-    *Why:*
-    > Small devices don't need images bigger than their viewport. It's recommended to have multiple versions of one image on different sizes.
+    *&#x202b;چرا:*
+    > &#x202b;دستگاه‌های کوچک نیاز به تصاویر بزرگ‌تر از viewport خود نداردن. توصیه می‌شود که از چندین نسخه مختلف از یک عکس در سایزهای مختلف استفاده کنید.
 
-    *How:*
-    > ⁃ Create different image sizes for the devices you want to target. <br>
-    ⁃ Use `srcset` and `picture` to deliver multiple variants of each image.
+    *&#x202b;چطور:*
+    > &#x202b;اندازه‌های مختلف از تصویر را برای دستگاه‌هایی که مورد نظر شماست ایجاد کنید <br>
+    > &#x202b; از صفت `srcset` و تگ `picture` برای نمایش نسخه‌های مختلف از تصویر خود استفاده کنید
 
      * 📖 [Responsive images - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
