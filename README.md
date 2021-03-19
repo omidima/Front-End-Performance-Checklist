@@ -370,16 +370,16 @@ List of the tools you can use to test or monitor your website or application:
     * 📖 [A&#x202b;راهنمای جامع استراتژی‌های بارگذاری فونت—zachleat.com](https://www.zachleat.com/web/comprehensive-webfonts/#font-face)
     * 🛠 [typekit/webfontloader: &#x202b;این ابزار کنترل بیشتری را برای فونت‌های موجود در @font-face به شما می‌دهد.](https://github.com/typekit/webfontloader)
 
-- [ ] **Webfont size:** ![medium] Webfont sizes don't exceed 300kb (all variants included)
+- [ ] **Webfont size:** ![medium] &#x202b;حجم فونت‌ها نباید بیشتر از 300 کیلوبایت باشد (مجموع فونت‌های مورد استفاده)
 
- * 📖 [Font Bytes - Page Weight](https://httparchive.org/reports/page-weight#bytesFont)
+ * 📖 [&#x202b;بایت فونت - حجم صفحه](https://httparchive.org/reports/page-weight#bytesFont)
 
-- [ ] **Prevent Flash or Invisible Text:** ![medium] Avoid transparent text until the Webfont is loaded
+- [ ] **Prevent Flash or Invisible Text:** ![medium] &#x202b;پیش از بارگذاری فونت‌ها متن را نمایش دهید
 
  * 📖 [`font-display` for the Masses](https://css-tricks.com/font-display-masses/)
  * 📖 [CSS font-display: The Future of Font Rendering on the Web](https://www.sitepoint.com/css-font-display-future-font-rendering-web/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ &#x202b;برگشت به بالا](#جدول-محتوا)**
 
 ## Images
 
