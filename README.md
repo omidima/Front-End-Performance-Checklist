@@ -466,7 +466,7 @@ List of the tools you can use to test or monitor your website or application:
 
      * 📖 [Responsive images - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ &#x202b;برگشت به بالا](#جدول-محتوا)**
 
 ## JavaScript
 
