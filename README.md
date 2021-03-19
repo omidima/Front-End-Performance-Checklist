@@ -356,19 +356,19 @@ List of the tools you can use to test or monitor your website or application:
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     ```
 
-    *Why:*
-    > When you arrived on a website, your device needs to find out where your site lives and which server it needs to connect with. Your browser had to contact a DNS server and wait for the lookup complete before fetching the resource (fonts, CSS files...). Prefetches and preconnects allow the browser to lookup the DNS information and start establishing a TCP connection to the server hosting the font file. This provides a performance boost because by the time the browser gets around to parsing the css file with the font information and discovering it needs to request a font file from the server, it will already have pre-resolved the DNS information and have an open connection to the server ready in its connection pool.
+    *&#x202b;چرا:*
+    > &#x202b;زمانی که شما به وبسایتی مراجعه می‌کنید، دستگاه شما نیاز دارد که بداند سایت شما کجاست و به کدام سرور متصل شود. مرورگر شما مجبور است که به یک سرور DNS متصل گردد و تا پیش از دریافت منابع (فونت‌ها، فایل‌های CSS  و ...) منتظر بماند تا جستجو کامل شود. تکنیک‌های Prefetch و Preconnect به مرورگر اجازه می‌دهند که اطلاعات DNS را جستجو کند و شروع به ایجاد یک ارتباط TCP با سروری نماید که فونت‌های شما بر روی آن میزبانی می‌شوند. این کار باعث افزایش کارایی می‌شود چرا که زمانی که مرورگر در حال خواندن فایل CSS شماست و متوجه می‌شود که نیاز به اتصال به یک سرور برای فونت‌ها دارد، موارد مربوط به DNS از قبل انجام شده و این مورد باعث افزایش سرعت دریافت فونت‌ها می‌شود.
 
-    *How:*
-    > ⁃ Before prefetching your webfonts, use webpagetest to evaluate your website <br>
-    ⁃ Look for teal colored DNS lookups and note the host that are being requested <br>
-    ⁃ Prefetch your webfonts in your `<head>` and add eventually these hostnames that you should prefetch too
+    *&#x202b;چگونه:*
+    > &#x202b;- قبل از استفاده از تکنیک prefetch، از webpagetest برای بررسی سایت خود استفاده کنید <br>
+    > &#x202b;- در گزارش به دنبال بخشی باشید که جستجو DNS در آن قرار دارد و به هاست‌هایی که باید متصل شود اشاره می‌کند. <br>
+    > &#x202b;- در بخش `<head>` از تکنیک prefetch برای وب فونت‌های خود استفاده کنید و در نهایت هاست‌های اشاره شده را نیز preconnect کنید.
 
-    * 📖 [Faster Google Fonts with Preconnect - CDN Planet](https://www.cdnplanet.com/blog/faster-google-webfonts-preconnect/)
-    * 📖 [Make Your Site Faster with Preconnect Hints | Viget](https://www.viget.com/articles/make-your-site-faster-with-preconnect-hints/)
-    * 📖 [Ultimate Guide to Browser Hints: Preload, Prefetch, and Preconnect - MachMetrics Speed Blog](https://www.machmetrics.com/speed-blog/guide-to-browser-hints-preload-preconnect-prefetch/)
-    * 📖 [A Comprehensive Guide to Font Loading Strategies—zachleat.com](https://www.zachleat.com/web/comprehensive-webfonts/#font-face)
-    * 🛠 [typekit/webfontloader: Web Font Loader gives you added control when using linked fonts via @font-face.](https://github.com/typekit/webfontloader)
+    * 📖 [&#x202b;فونت‌های گوگل را با preconnect سریع‌تر کنید - CDN Planet](https://www.cdnplanet.com/blog/faster-google-webfonts-preconnect/)
+    * 📖 [&#x202b;سایت خود را با preconnect سریع‌تر کنید | Viget](https://www.viget.com/articles/make-your-site-faster-with-preconnect-hints/)
+    * 📖 [&#x202b;راهنمای کامل برای نکات مرورگر: Preload ،Prefetch و Preconnect - MachMetrics Speed Blog](https://www.machmetrics.com/speed-blog/guide-to-browser-hints-preload-preconnect-prefetch/)
+    * 📖 [A&#x202b;راهنمای جامع استراتژی‌های بارگذاری فونت—zachleat.com](https://www.zachleat.com/web/comprehensive-webfonts/#font-face)
+    * 🛠 [typekit/webfontloader: &#x202b;این ابزار کنترل بیشتری را برای فونت‌های موجود در @font-face به شما می‌دهد.](https://github.com/typekit/webfontloader)
 
 - [ ] **Webfont size:** ![medium] Webfont sizes don't exceed 300kb (all variants included)
 
