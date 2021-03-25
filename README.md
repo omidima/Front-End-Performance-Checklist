@@ -589,13 +589,13 @@ List of the tools you can use to test or monitor your website or application:
     * 🛠 [What Does My Site Cost?](https://whatdoesmysitecost.com/)
     * 🛠 [web - Measure full page size in Chrome DevTools - Stack Overflow](https://stackoverflow.com/questions/38239980/measure-full-page-size-in-chrome-devtools)
 
-- [ ] **Page load times < 3 seconds:** ![high] Reduce as much as possible your page load times to quickly deliver your content to your users.
+- [ ] **Page load times < 3 seconds:** ![high] تا جایی که ممکن است زمان بارگزاری صفحه را کاهش دهید تا محتوا سریع‌تر به دست کاربر برسد.
 
-    *Why:*
-    > Faster your website or app is, less you have probability of bounce increases, in other terms you have less chances to lose your user or future client. Enough researches on the subject prove that point.
+    *&#x202b;چرا:*
+    > &#x202b;هر چقدر اپلیکیشن یا وبسایت شما سریع‌تر باشد، شانس رهایی کمتر می‌شود. به زبان دیگر شما شانس کمتری برای از دست دادن کاربر دارید. بررسی‌های زیادی برای اثبات این مورد انجام گرفته است.
 
-    *How:*
-    > Use online tools like [Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/) or [WebPageTest](https://www.webpagetest.org/) to analyze what could be slowing you down and use the Front-End Performance Checklist to improve your load times.
+    *&#x202b;چطور:*
+    > &#x202b;از ابزارهای آنلاین مانند [Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/) یا [WebPageTest](https://www.webpagetest.org/) برای بررسی صفحات و این لیست کارایی فرانت‌اند جهت بهبود سرعت بارگزاری استفاده کنید. 
 
     * 🛠 [Compare your mobile site speed](https://www.thinkwithgoogle.com/feature/mobile/)
     * 🛠 [Test Your Mobile Website Speed and Performance - Think With Google](https://testmysite.thinkwithgoogle.com/intl/en-us)
