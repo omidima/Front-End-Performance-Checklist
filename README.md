@@ -608,13 +608,13 @@ List of the tools you can use to test or monitor your website or application:
     * 📖 [Time to First Byte (TTFB)](https://varvy.com/pagespeed/ttfb.html)
     * 🛠 [Global latency testing tool](https://latency.apex.sh)
 
-* [ ] **Cookie size:** ![medium] If you are using cookies, be sure each cookie doesn't exceed 4096 bytes and your domain name doesn't have more than 20 cookies.
+* [ ] **Cookie size:** ![medium] &#x202b;اگر شما از کوکی‌ها استفاده می‌کنید، دقت کنید که حجم هر کوکی از 4096 بایت بیشتر نشود و هر دامنه بیشتر از 20 کوکی نداشته باشد
 
-    *Why:*
-    > Cookies are exchanged in the HTTP headers between web servers and browsers. It's important to keep the size of cookies as low as possible to minimize the impact on the user's response time.
+    *&#x202b;چرا:*
+    > کوکی‌ها در حال تبادل بین کاربر و سرور از طریق HTTP header هستند. مهم است که حجم کوکی‌ها را تا جایی که امکان دارد کاهش دهید تا روی زمان پاسخ به کاربر حداقل تاثیر را بگذارد.
 
-    *How:*
-    > Eliminate unnecessary cookies.
+    *&#x202b;چطور:*
+    > &#x202b;کوکی‌های غیر ضروری را حذف کنید.
 
     * 📖 [Cookie specification: RFC 6265](https://tools.ietf.org/html/rfc6265)
     * 📖 [Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
