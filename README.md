@@ -637,10 +637,10 @@ List of the tools you can use to test or monitor your website or application:
 - [ ] **Serve reachable files:** ![high] &#x202b;از درخواست دادن به صفحات و فایل‌های ناموجود خودداری کنید (خطای 404)
  * 📖 [How to avoid bad requests](https://varvy.com/pagespeed/avoid-bad-requests.html)
 
-- [ ] **Set HTTP cache headers properly:** ![high] Set HTTP headers to avoid expensive number of roundtrips between your browser and the server.
+- [ ] **Set HTTP cache headers properly:** ![high] &#x202b;از HTTP header جهت کاهش ارسال درخواست و دریافت پاسخ بین سرور و کاربر استفاده کنید.
  * 📖 [Using cache-control for browser caching](https://varvy.com/pagespeed/cache-control.html)
 
-- [ ] **GZIP / Brotli compression is enabled:** ![high] Use a compression method such as Gzip or Brotli to reduce the size of your JavaScript files. With a smaller sizes file, users will be able to download the asset faster, resulting in improved performance.
+- [ ] **GZIP / Brotli compression is enabled:** ![high] &#x202b;از یک متد فشرده سازی مانند Gzip یا Brotli جهت کاهش حجم فایل‌های خود استفاده کنید. هر چقدر حجم فایل‌ها کمتر باشد، کاربر آن‌ها را سریع‌تر دریافت کرده و در نتیجه کارایی بهتر می‌شود.
 
  * 🛠 [Check GZIP compression](https://checkgzipcompression.com/)
  * 🛠 [Check Brotli Compression](https://tools.keycdn.com/brotli-test)
