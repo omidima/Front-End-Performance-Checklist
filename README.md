@@ -646,7 +646,7 @@ List of the tools you can use to test or monitor your website or application:
  * 🛠 [Check Brotli Compression](https://tools.keycdn.com/brotli-test)
  * 📖 [Can I use... Brotli](https://caniuse.com/#feat=brotli)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ &#x202b;برگشت به بالا](#جدول-محتوا)**
 
 ---
 ## Performances and JS Frameworks
