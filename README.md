@@ -632,9 +632,9 @@ List of the tools you can use to test or monitor your website or application:
  * 📖 [10 Tips to Optimize CDN Performance - CDN Planet](https://www.cdnplanet.com/blog/10-tips-optimize-cdn-performance/)
  * 📖 [HTTP Caching  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 
-- [ ] **Serve files from the same protocol:** ![high] Avoid having your website serving files coming from source using HTTP on your website which is using HTTPS for example. If your website is using HTTPS, external files should come from the same protocol.
+- [ ] **Serve files from the same protocol:** ![high] &#x202b;برای مثال اگر از HTTPS استفاده می‌کنید، نباید فایل‌های موجود در صفحه را از طریق HTTP فراخوانی کمید. اگر وبسایت شما HTTPS است فایل‌های موجود در صفحه نیز باید از همین پروتکل دریافت شوند.
 
-- [ ] **Serve reachable files:** ![high] Avoid requesting unreachable files (404).
+- [ ] **Serve reachable files:** ![high] &#x202b;از درخواست دادن به صفحات و فایل‌های ناموجود خودداری کنید (خطای 404)
  * 📖 [How to avoid bad requests](https://varvy.com/pagespeed/avoid-bad-requests.html)
 
 - [ ] **Set HTTP cache headers properly:** ![high] Set HTTP headers to avoid expensive number of roundtrips between your browser and the server.
