@@ -622,11 +622,12 @@ List of the tools you can use to test or monitor your website or application:
     * 📖 [Website Performance: Cookies Don't Taste So Good - Monitis Blog](http://www.monitis.com/blog/website-performance-cookies-dont-taste-so-good/)
     * 📖 [Google's Web Performance Best Practices #3: Minimize Request Overhead - GlobalDots Blog](https://www.globaldots.com/googles-web-performance-best-practices-3-minimize-request-overhead/)
 
-- [ ] **Minimizing HTTP requests:** ![high] Always ensure that every file requested are essential for your website or application.
+- [ ] **Minimizing HTTP requests:** ![high] &#x202b;اطمینان حاصل کنید که هر فایل درخواستی برای وبسایت یا اپلیکیشن شما ضروری است.
+
  * 📖 [Combine external CSS](https://varvy.com/pagespeed/combine-external-css.html)
  * 📖 [Combine external JavaScript](https://varvy.com/pagespeed/combine-external-javascript.html)
 
-- [ ] **Use a CDN to deliver your assets:** ![medium] Use a CDN to deliver faster your content over the world.
+- [ ] **Use a CDN to deliver your assets:** ![medium] &#x202b;از CDN برای رساندن سریع محتوای خود به سرتاسر جهان استفاده کنید
 
  * 📖 [10 Tips to Optimize CDN Performance - CDN Planet](https://www.cdnplanet.com/blog/10-tips-optimize-cdn-performance/)
  * 📖 [HTTP Caching  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
