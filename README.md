@@ -577,13 +577,13 @@ List of the tools you can use to test or monitor your website or application:
  * 📖 [HTTP versus HTTPS versus HTTP2 - The real story | Tune The Web](https://www.tunetheweb.com/blog/http-versus-https-versus-http2/)
  * 📖 [HTTP vs HTTPS — Test them both yourself](https://www.httpvshttps.com/)
 
-- [ ] **Page weight < 1500 KB (ideally < 500 KB):** ![high] Reduce the size of your page + resources as much as you can.
+- [ ] **Page weight < 1500 KB (ideally < 500 KB):** ![high] &#x202b;تا جایی که می‌توانید حجم صفحه و فایل‌های موجود در آن را کاهش دهید.
 
-    *Why:*
-    > Ideally you should try to target < 500 KB but the state of web shows that the median of Kilobytes is around 1500 KB (even on mobile). Depending on your target users, network connection, devices, it's important to reduce as much as possible your total Kilobytes to have the best user experience possible.
+    *&#x202b;چرا:*
+    > &#x202b;در حالت ایده‌آل شما باید حجم صفحه خود را کمتر از 500 کیلوبایت نگه دارید؛ گرچه وضعیت وبسایت‌ها نشان می‌دهد که میانگین صفحات موجود در وب 1500  کیلوبایت حجم دارند (حتی روی موبایل). با توجه به کاربران هدف، وضعیت اتصال شبکه و دستگاه، مهم است تا جایی که امکان دارد مجموع حجم صفحه را کاهش دهید تا تجربه کاربری بهتری داشته باشید.
 
-    *How:*
-    > ⁃ All the rules inside the Front-End Performance Checklist will help you to reduce as much as possible your resources and your code.
+    *&#x202b;چطور:*
+    > &#x202b;تمامی قواینین موجود در این چک لیست به شما کمک می‌کند تا حد امکان حجم کدها و منابع خود را کاهش دهید.
 
     * 📖 [Page Weight](https://httparchive.org/reports/page-weight#bytesTotal)
     * 🛠 [What Does My Site Cost?](https://whatdoesmysitecost.com/)
