@@ -494,7 +494,7 @@ List of the tools you can use to test or monitor your website or application:
 
      * 📖 [11 Tips to Optimize JavaScript and Improve Website Loading Speeds](https://www.upwork.com/hiring/development/11-tips-to-optimize-javascript-and-improve-website-loading-speeds/)
 
-* [ ] **Non-blocking JavaScript:** ![high] JavaScript files are loaded asynchronously using `async` or deferred using `defer` attribute.
+* [ ] **Non-blocking JavaScript:** ![high] &#x202b; بارگزاری فایل‌های جاوا اسکریپت باید از طریق قابلیت `async` به صورت غیر همزمان و یا قابلیت `defer` به تعویق بی‌افتد.
 
     ```html
     <!-- Defer Attribute -->
@@ -504,12 +504,12 @@ List of the tools you can use to test or monitor your website or application:
     <script async src="foo.js"></script>
     ```
 
-    *Why:*
-    > JavaScript blocks the normal parsing of the HTML document, so when the parser reaches a `<script>` tag (particularly is inside the `<head>`), it stops to fetch and run it. Adding `async` or `defer` are highly recommended if your scripts are placed in the top of your page but less valuable if just before your `</body>` tag. But it's a good practice to always use these attributes to avoid any performance issue.
+    *&#x202b;چرا:*
+    > &#x202b;بارگزاری جاوا اسکریپت باعث مسدود سازی تجزیه (parse) سند اچ تی ام ال می‌شود؛ در نتیجه زمانی که تجزیه کننده به یک تگ `<script>` (که معمولا در داخل تگ `<head>` قرار دارد) می‌رسد، متوقف شده و اسکریپت را اجرا می‌کند. اگر اسکریپت‌های شما در ابتدای سند شما قرار دارند افزودن قابلیت `async` یا `defer` بسیار توصیه می‌شود در حالی که اگر این کدها در انتهای سند شما قرار دارند افزودن این قابلیت‌ها تاثیر چندانی ندارند. اما استفاده همیشگی از این قابلیت‌ها به عنوان یک عادت خوب برای جلوگیری از مشکلات کارایی به حساب می‌آید. 
 
-    *How:*
-    > ⁃ Add `async` (if the script don't rely on other scripts) or `defer` (if the script relies upon or relied upon by an async script) as an attribute to your script tag. <br>
-    ⁃ If you have small scripts, maybe use inline script place above async scripts.
+    *&#x202b;چگونه:*
+    > &#x202b; از قابلیت `async` (در صورتی که فایل شما وابسته به فایل‌های دیگر نیست) و قابلیت `defer` (اگر این فایل وابسته به فایل دیگر است) به عنوان یک صفت در تگ `<script>` استفده کنید. <br>
+    > &#x202b;اگر اسکریپت کوچکی دارید، شاید بهتر باشد آن‌را به صورت داخلی (inline) بالای فایل‌های جاوا اسکریپت قرار دهید.
 
     * 📖 [Remove Render-Blocking JavaScript](https://developers.google.com/speed/docs/insights/BlockingJS)
     * 📖 [Defer loading JavaScript](https://varvy.com/pagespeed/defer-loading-javascript.html)
