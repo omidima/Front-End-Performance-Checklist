@@ -539,13 +539,13 @@ List of the tools you can use to test or monitor your website or application:
     * 🛠 [js-dependency-viewer - npm](https://www.npmjs.com/package/js-dependency-viewer)
     * 📖 [Size Limit: Make the Web lighter — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/size-limit-make-the-web-lighter)
 
-- [ ] **JavaScript Profiling:** ![medium] Check for performance problems in your JavaScript files (and CSS too).
+- [ ] **JavaScript Profiling:** ![medium] &#x202b;مشکلات کارایی در فایل‌های جاوا اسکریپت (و سی‌اس‌اس) را بررسی کنید
 
-    *Why:*
-    > JavaScript complexity can slow down runtime performance. Identifying these possible issues are essential to offer the smoothest user experience.
+    *&#x202b;چرا:*
+    > &#x202b;پیچیدگی در کدهای جاوا اسکریپت می‌تواند کارایی زمان اجرا را کاهش دهد. شناسایی این مشکلات بالقوه برای دریافت بهترین تجربه کاربری ضروری است.
 
-    *How:*
-    > Use the Timeline tool in the Chrome Developer Tool to evaluate scripts events and found the one that may take too much time.
+    *&#x202b;چطور:*
+    > &#x202b;از ابزار Timeline موجود در ابزارهای توسعه دهنده کروم برای ارزیابی رویدادهای اسکریپت و پیدا کردن آن رویدادی که ممکن است اجرای آن طولانی باشد، استفاده کنید. 
 
      * 📖 [Speed Up JavaScript Execution  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/chrome-devtools/rendering-tools/js-execution)
     * 📖 [JavaScript Profiling With The Chrome Developer Tools — Smashing Magazine](https://www.smashingmagazine.com/2012/06/javascript-profiling-chrome-developer-tools/)
