@@ -114,9 +114,11 @@
 
 </ul>
 
-### Performance tools
+<h3 dir="rtl">ابزارها</h3>
 
-List of the tools you can use to test or monitor your website or application:
+<p dir="rtl">
+  لیستی از ابزارها که شما می‌توانید با استفاده از آن‌ها وبسایت یا اپلیکیشن خود را بررسی و بازبینی کنید:
+</p>
 
  * 🛠 [WebPagetest - Website Performance and Optimization Test](https://www.webpagetest.org/)
  * 🛠 ☆ [Dareboost: Website Speed Test and Website Analysis](https://www.dareboost.com/) (use the coupon WPCDD20 for -20%)
@@ -144,7 +146,7 @@ List of the tools you can use to test or monitor your website or application:
  * 🛠 [LogRocket - Measure front-end performance in production apps](https://logrocket.com)
 
 
-### References
+<h3 dir="rtl">منابع</h3>
 
  * 📹 [The Cost Of JavaScript - YouTube](https://www.youtube.com/watch?v=_bzqF05xsC4) ([text version](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4))
  * [AddyOsmani.com - Start Performance Budgeting](https://addyosmani.com/blog/performance-budgets/)
