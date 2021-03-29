@@ -70,7 +70,7 @@
 </li>
 <li>
   
-  **[جاوا اسکریپت](#javascript)**
+  **[جاوا اسکریپت](#جاوا-اسکریپت)**
   
 </li>
 <li>
@@ -468,17 +468,17 @@ List of the tools you can use to test or monitor your website or application:
 
 **[⬆ &#x202b;برگشت به بالا](#جدول-محتوا)**
 
-## JavaScript
+<h2 dir="rtl">جاوا اسکریپت</h2>
 
 ![javascript]
 
-- [ ] **JS Minification:** ![high] All JavaScript files are minified, comments, white spaces and new lines are removed from production files *(still valid if using HTTP/2)*.
+- [ ] **JS Minification:** ![high] &#x202b; تمامی فایل‌های جاوا اسکریپت باید کوچک‌تر شده و کامنت‌ها، فضاهای خالی و خطوط اضافی در خروجی نهایی حذف شوند *(در HTTP/2 نیز معتبر است)*
 
-    *Why:*
-    > Removing all unnecessary spaces, comments and break will reduce the size of your JavaScript files and speed up your site's page load times and obviously lighten the download for your user.
+    *&#x202b;چرا:*
+    > &#x202b;حذف تمامی فضاهای خالی غیر ضروری، کامنت‌ها و خطوط اضافی باعث کاهش حجم فایل‌های جاوا اسکریپت شما شده و زمان بارگزاری صفحه وبسایت شما را سریع‌تر کرده و در نهایت حجم دانلود کمتری را برای کابران شما به دنبال دارد.
 
-    *How:*
-    > ⁃ Use the tools suggested below to minify your files automatically before or during your build or your deployment.
+    *&#x202b;چطور:*
+    > &#x202b;از ابزارهایی زیر که به شما پیشنهاد داده شده، برای کوچک کردن خودکار فایل‌های خود قبل و یا در حین تولید خروجی نهایی استفاده کنید.
 
     * 🛠 [uglify-js - npm](https://www.npmjs.com/package/uglify-js)
     * 🛠 [Online JavaScript Compressor](http://refresh-sf.com)
