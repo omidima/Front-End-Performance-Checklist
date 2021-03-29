@@ -553,14 +553,14 @@ List of the tools you can use to test or monitor your website or application:
     * 📖 [Chapter 22 - Profiling the Frontend - Blackfire](https://blackfire.io/docs/book/22-frontend-profiling)
     * 📖 [30 Tips To Improve Javascript Performance](http://www.monitis.com/blog/30-tips-to-improve-javascript-performance/)
 
-- [ ] **Use of Service Workers:** ![medium] You are using Service Workers in your PWA to cache data or execute possible heavy tasks without impacting the user experience of your application.
+- [ ] **Use of Service Workers:** ![medium] از سرویس ورکر در PWA به عنوان کش کردن داده‌ها و یا اجرای وظایف سنگین بدون تاثیر گذاشتن روی تجربه کاربری بهره ببرید
    
     * 📖 [Service Workers: an Introduction  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/primers/service-workers/)
     * 📖 [Measuring the Real-world Performance Impact of Service Workers  |  Web  |  Google Developers](https://developers.google.com/web/showcase/2016/service-worker-perf)
     * 📖 [What Are Service Workers and How They Help Improve Performance](https://www.keycdn.com/blog/service-workers/)
     * 📹 [How does a service worker work? - YouTube](https://www.youtube.com/watch?v=__xAtWgfzvc)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ &#x202b;برگشت به بالا](#جدول-محتوا)**
 
 <h2 dir="rtl">سرور</h2>
 
