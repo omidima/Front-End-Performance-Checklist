@@ -9,7 +9,7 @@
 
 <h4 align="center" dir="rtl">یک ترجمه مفهومی از <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist">Front-End Performance Checklist</a></h4>
 <h4 align="center" dir="rtl">🎮 تنها چک لیست مربوط به مباحث کارایی در فرانت‌اند که نسبت به بقیه سریع‌تر اجرا میشه</h4>
-<p align="center" dir="rtl">یک قانون ساده: "با عملکرد کارا در ذهنتون، طراحی و برنامه‌نویسی کنین"</p>
+<p align="center" dir="rtl">یه قانون ساده: "با در نظر گرفتن کارایی در ذهنتون، طراحی و برنامه‌نویسی کنین"</p>
 
 <p align="center">
   <a href="http://makeapullrequest.com">
