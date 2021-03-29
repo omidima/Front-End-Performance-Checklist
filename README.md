@@ -526,13 +526,13 @@ List of the tools you can use to test or monitor your website or application:
     * 📖 [You may not need jQuery](http://youmightnotneedjquery.com/)
     * 📖 [Vanilla JavaScript for building powerful web applications](https://plainjs.com/)
 
-- [ ] **Check dependencies size limit:** ![low] Ensure to use wisely external libraries, most of the time, you can use a lighter library for a same functionality.
+- [ ] **Check dependencies size limit:** ![low] &#x202b;از کتابخانه‌های خارجی به طور هوشمندانه استفاده کنید؛ بیشتر اوقات شما می‌توانید از یک کتابخانه کوچک‌تر برای عملکرد مشابه بهره ببرید.
 
-    *Why:*
-    > You may be tempted to use one of the 745 000 packages you can find on [npm](https://www.npmjs.com/), but you need to choose the best package for your needs. For example, MomentJS is an awesome library but with a lot of methods you may never use, that's why Day.js was created. It's just 2kB vs 16.4kB gz for Moment.
+    *&#x202b;چرا:*
+    > &#x202b; شما ممکن است مجبور به استفاده از یکی از 745 هزار پکیجی که در [npm](https://www.npmjs.com/) موجود است، شوید؛ اما شما نیاز دارید  که بهترین پکیجی که متناسب با نیاز شماست را استفاده کنید. برای مثال MomentJS یک کتابخانه فوق العاده با تعداد زیادی عملکرد است که ممکن است به کار شما نیاید و به همین دلیل است که Day.js ایجاد شده است؛ که حجم آن 2Kb در مقابل 16.4KB در نسخه gz است. 
 
-    *How:*
-    > Always compare and choose the best and lighter library for your needs. You can also use tools like [npm trends](http://www.npmtrends.com/) to compare NPM package downloads counts or [Bundlephobia](https://bundlephobia.com/) to know the size of your dependencies.
+    *&#x202b;چطور:*
+    > &#x202b;همیشه مقایسه کنید و بهترین و کم حجم‌ترین کتابخانه متناسب با نیازهای خود را انتخاب کنید. شما همچنین می‌توانید از ابزاری مانند [npm trends](http://www.npmtrends.com/) برای مقایسه تعداد دانلودهای پکیج‌ها و یا [Bundlephobia](https://bundlephobia.com/) برای شناخت حجم پکیج‌های مورد نیاز، استفاده کنید. 
 
     * 🛠 [ai/size-limit: Prevent JS libraries bloat. If you accidentally add a massive dependency, Size Limit will throw an error.](https://github.com/ai/size-limit)
     * 🛠 [webpack-bundle-analyzer - npm](https://www.npmjs.com/package/webpack-bundle-analyzer)
