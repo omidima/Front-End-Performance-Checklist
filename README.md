@@ -3,14 +3,13 @@
   <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><img src="https://raw.githubusercontent.com/thedaviddias/Front-End-Performance-Checklist/master/images/logo-front-end-performance-checklist.jpg" alt="Front-End Performance Checklist" width="170"></a>
   <br>
   <br>
-  Front-End Performance Checklist  
-  <br>
   چک لیست کارایی در فرانت‌اند
   <br>
 </h1>
 
-<h4 align="center" dir="rtl">🎮 تنها چک لیست مربوط به مباحث کارایی در فرانت‌اند که سریع تر از بقیه اجرا می‌شه.</h4>
-<p align="center" dir="rtl">یک قانون ساده: "با کارایی در ذهنتون طراحی و برنامه‌نویسی کنین"</p>
+<h4 align="center" dir="rtl">یک ترجمه مفهومی از <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist">Front-End Performance Checklist</a></h4>
+<h4 align="center" dir="rtl">🎮 تنها چک لیست مربوط به مباحث کارایی در فرانت‌اند که نسبت به بقیه سریع‌تر اجرا میشه</h4>
+<p align="center" dir="rtl">یک قانون ساده: "با عملکرد کارا در ذهنتون، طراحی و برنامه‌نویسی کنین"</p>
 
 <p align="center">
   <a href="http://makeapullrequest.com">
@@ -25,7 +24,7 @@
 </p>
 
 <p align="center" dir="rtl">
-  <a href="#نحوه-استفاده">نحوه استفاده</a> • <a href="#contributing">Contributing</a>
+  <a href="#نحوه-استفاده">نحوه استفاده</a> • <a href="#همکاری">همکاری</a>
 </p>
 
 <p align="center">
@@ -36,12 +35,6 @@
   <a href="https://github.com/fernandofawkes/Front-End-Performance-Checklist">🇵🇹</a>
   <a href="https://github.com/lex111/Front-End-Performance-Checklist">🇷🇺</a>
   <a href="https://github.com/GameWith/Front-End-Performance-Checklist">🇯🇵</a>
-</p>
-
-<p align="center">
-    <span>Other Checklists:</span>
-    <br>
-  🗂 <a href="https://github.com/thedaviddias/Front-End-Checklist#---------front-end-checklist-">Front-End Checklist</a> • 💎 <a href="https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist">Front-End Design Checklist</a>
 </p>
 
 <h2 dir="rtl">جدول محتوا</h2>
@@ -697,7 +690,7 @@ The Front-End Performance Checklist wants to also be available in other language
 * 🇯🇵 Japanese: [GameWith/Front-End-Performance-Checklist](https://github.com/GameWith/Front-End-Performance-Checklist)
 * 🇵🇱 Polish: [mbiesiad/Front-End-Performance-Checklist](https://github.com/mbiesiad/Front-End-Performance-Checklist)
 
-## Contributing
+## &#x202b;همکاری
 
 **Open an issue or a pull request to suggest changes or additions.**
 
