@@ -24,7 +24,7 @@
 </p>
 
 <p align="center" dir="rtl">
-  <a href="#نحوه-استفاده">نحوه استفاده</a> • <a href="#همکاری">همکاری</a>
+  <a href="#نحوه-استفاده">نحوه استفاده</a> • <a href="#contributing">همکاری</a>
 </p>
 
 <p align="center">
@@ -73,7 +73,13 @@
 </li>
 <li>
   
-  **[فریم‌ورک‌های جاوا اسکریپت](#performances-and-js-frameworks) (در حال تکمیل شدن)**
+  **[فریم ورک های جاوا اسکریپت](#فریم-ورک-های-جاوا-اسکریپت) (در حال تکمیل شدن)**
+ 
+</li>
+
+<li>
+  
+  **[سیستم های مدیریت محتوا](#سیستم-های-مدیریت-محتوا) (در حال تکمیل شدن)**
  
 </li>
 
@@ -645,7 +651,7 @@
 **[⬆ &#x202b;برگشت به بالا](#جدول-محتوا)**
 
 ---
-## Performances and JS Frameworks
+## فریم ورک های جاوا اسکریپت
 
 ### Angular
  * 📖 [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
@@ -660,7 +666,7 @@
 ### Vue
  * 📖 [Vue - Useful Links|Style Guide and Performance](https://learn-vuejs.github.io/vue-patterns/useful-links/)
 
-## Performances and CMS
+## سیستم های مدیریت محتوا
 
 ### WordPress
 
@@ -683,6 +689,7 @@
 
 The Front-End Performance Checklist wants to also be available in other languages! Don't hesitate to submit your contribution!
 
+* 🇪🇳 Portuguese: [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 * 🇵🇹 Portuguese: [fernandofawkes/Front-End-Performance-Checklist](https://github.com/fernandofawkes/Front-End-Performance-Checklist)
 * 🇨🇳 Chinese: [JohnsenZhou/Front-End-Performance-Checklist](https://github.com/JohnsenZhou/Front-End-Performance-Checklist)
 * 🇷🇺 Russian: [lex111/Front-End-Performance-Checklist](https://github.com/lex111/Front-End-Performance-Checklist)
@@ -693,7 +700,7 @@ The Front-End Performance Checklist wants to also be available in other language
 * 🇯🇵 Japanese: [GameWith/Front-End-Performance-Checklist](https://github.com/GameWith/Front-End-Performance-Checklist)
 * 🇵🇱 Polish: [mbiesiad/Front-End-Performance-Checklist](https://github.com/mbiesiad/Front-End-Performance-Checklist)
 
-## &#x202b;همکاری
+## Contributing
 
 **Open an issue or a pull request to suggest changes or additions.**
 
@@ -707,7 +714,11 @@ If you have any question or suggestion, don't hesitate to use Discord or Twitter
 
 ## Author
 
-**Build with ❤️ by [David Dias](https://github.com/thedaviddias)
+Build with ❤️ by [David Dias](https://github.com/thedaviddias)
+
+## Translate
+
+Translate with ❤️ by [Mohammad Saleh Fadaei](https://github.com/ms-fadaei)
 
 ## Contributors
 
