@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist">🇪🇳</a>
+  <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist">🇺🇸</a>
   <a href="https://github.com/JohnsenZhou/Front-End-Performance-Checklist">🇨🇳</a>
   <a href="https://github.com/WilliamDASILVA/Front-End-Performance-Checklist">🇫🇷</a>
   <a href="https://github.com/ParkSB/Front-End-Performance-Checklist">🇰🇷</a>
@@ -689,7 +689,7 @@
 
 The Front-End Performance Checklist wants to also be available in other languages! Don't hesitate to submit your contribution!
 
-* 🇪🇳 Portuguese: [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+* 🇺🇸 English: [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 * 🇵🇹 Portuguese: [fernandofawkes/Front-End-Performance-Checklist](https://github.com/fernandofawkes/Front-End-Performance-Checklist)
 * 🇨🇳 Chinese: [JohnsenZhou/Front-End-Performance-Checklist](https://github.com/JohnsenZhou/Front-End-Performance-Checklist)
 * 🇷🇺 Russian: [lex111/Front-End-Performance-Checklist](https://github.com/lex111/Front-End-Performance-Checklist)
