@@ -67,7 +67,6 @@ you have product with this name: {title}. write a article for this product to pe
         request to torob api and getting the list of product there is a category. if category item in pageUrl method is empty
         by default request for `175` category id.
         '''
-        print("cat id",category.id,AppUrls.category_url(category_id=category.id))
         response = self.client.get(AppUrls.category_url(category_id=category.id)).json()['results']
         data = []
         if (response):
@@ -195,8 +194,5 @@ if __name__ == "__main__":
                 "content": res
             })
             open("data.json", "w").write(json.dumps(items, ensure_ascii=False))
-            print("Add index:",counter, end="\r")
             counter+=1
-
-    print("Add index:",counter, end="\r")
 

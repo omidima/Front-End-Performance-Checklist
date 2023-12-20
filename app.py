@@ -15,7 +15,6 @@ def findProduct(question: str):
     for post in data:
         power = 0
         for item in features["usages"]:
-            print(item,post["content"]["usages"], item in post["content"]["usages"])
             if (item in post["content"]["usages"]):
                 power+=1
 
@@ -24,5 +23,5 @@ def findProduct(question: str):
             "post": post["post"]
         }
 
-    return dict(sorted(points.items(), key=lambda x: x[1]["point"], reverse=True)[:5])
+    return [x[1] for x in sorted(points.items(), key=lambda x: x[1]["point"], reverse=True)[:5]]
 
